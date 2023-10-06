@@ -1,6 +1,6 @@
 
 
-# global-theme / Arc KDE
+# global-theme / Arc Light
 
 
 ## Link

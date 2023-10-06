@@ -1,6 +1,6 @@
 
 
-# global-theme / Arc Darker KDE
+# global-theme / Arc Darker
 
 
 ## Link

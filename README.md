@@ -3,6 +3,13 @@
 # Home
 
 
+## eznixos-adjustment-iso-profile-kde-plasma-arc
+
+| en_us | zh_tw |
+| --- | --- |
+| [kde-plasma-arc](https://github.com/samwhelp/eznixos-adjustment-iso-profile-kde-plasma-arc/tree/main/debian-12/locale/en_us/eznixos-adjustment-kde-plasma) | [kde-plasma-arc](https://github.com/samwhelp/eznixos-adjustment-iso-profile-kde-plasma-arc/tree/main/debian-12/locale/zh_tw/eznixos-adjustment-kde-plasma) |
+
+
 ## Link
 
 | Link | GitHub |
